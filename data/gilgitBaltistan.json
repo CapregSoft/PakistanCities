@@ -1,0 +1,302 @@
+[
+    {
+        "name": "Hunza",
+        "cities": [
+            {
+                "name": "Aliabad",
+                "type": "Town"
+            },
+            {
+                "name": "Gojal",
+                "type": "Valley"
+            },
+            {
+                "name": "Gulmit",
+                "type": "Town"
+            },
+            {
+                "name": "Hussainabad",
+                "type": "Village"
+            },
+            {
+                "name": "Karimabad",
+                "type": "Town"
+            },
+            {
+                "name": "Mayoon",
+                "type": "Village"
+            },
+            {
+                "name": "Misgar",
+                "type": "Village"
+            },
+            {
+                "name": "Nasirabad",
+                "type": "Town"
+            },
+            {
+                "name": "Shimshal",
+                "type": "Village"
+            },
+            {
+                "name": "Sust",
+                "type": "Village"
+            }
+        ]
+    },
+    {
+        "name": "Shigar",
+        "cities": [
+            {
+                "name": "Askole",
+                "type": "Town"
+            }
+        ]
+    },
+    {
+        "name": "Astore",
+        "cities": [
+            {
+                "name": "Astore",
+                "type": "City"
+            },
+            {
+                "name": "Bunji",
+                "type": "Town"
+            },
+            {
+                "name": "Eidghah",
+                "type": "Valley"
+            },
+            {
+                "name": "Minimarg",
+                "type": "Village"
+            }
+        ]
+    },
+    {
+        "name": "Diamer",
+        "cities": [
+            {
+                "name": "Chilas",
+                "type": "City"
+            },
+            {
+                "name": "Thalichi",
+                "type": "Village"
+            }
+        ]
+    },
+    {
+        "name": "Ghizer",
+        "cities": [
+            {
+                "name": "Chillinji",
+                "type": "Town"
+            },
+            {
+                "name": "Gahkuch",
+                "type": "City"
+            },
+            {
+                "name": "Ishkoman",
+                "type": "Valley"
+            },
+            {
+                "name": "Punial",
+                "type": "Valley"
+            }
+        ]
+    },
+    {
+        "name": "Nagar",
+        "cities": [
+            {
+                "name": "Cholt",
+                "type": "Town"
+            },
+            {
+                "name": "Hopar",
+                "type": "Valley"
+            },
+            {
+                "name": "Thole",
+                "type": "Village"
+            }
+        ]
+    },
+    {
+        "name": "Roundu",
+        "cities": [
+            {
+                "name": "Dambudas",
+                "type": "City"
+            }
+        ]
+    },
+    {
+        "name": "Gilgit District",
+        "cities": [
+            {
+                "name": "Danyor",
+                "type": "City"
+            },
+            {
+                "name": "Juglot",
+                "type": "Village"
+            },
+            {
+                "name": "Jalalabad",
+                "type": "Village"
+            },
+            {
+                "name": "Jutial",
+                "type": "Town"
+            },
+            {
+                "name": "Naltar",
+                "type": "Valley"
+            },
+            {
+                "name": "Oshikhandass",
+                "type": "Village"
+            },
+            {
+                "name": "Passu",
+                "type": "Village"
+            }
+        ]
+    },
+    {
+        "name": "Tangir District",
+        "cities": [
+            {
+                "name": "Darel",
+                "type": "Valley"
+            }
+        ]
+    },
+    {
+        "name": "Ghanche",
+        "cities": [
+            {
+                "name": "Dansam",
+                "type": "Town"
+            },
+            {
+                "name": "Haldi",
+                "type": "Village"
+            },
+            {
+                "name": "Khaplu",
+                "type": "Town"
+            },
+            {
+                "name": "Kharfaq",
+                "type": "Village"
+            },
+            {
+                "name": "Kharko",
+                "type": "Village"
+            }
+        ]
+    },
+    {
+        "name": "Gilgit Baltistan",
+        "cities": [
+            {
+                "name": "Gilgit",
+                "type": "City"
+            }
+        ]
+    },
+    {
+        "name": "Skardu District",
+        "cities": [
+            {
+                "name": "Gultari",
+                "type": "Valley"
+            },
+            {
+                "name": "Skardu",
+                "type": "City"
+            },
+            {
+                "name": "Thowar",
+                "type": "Valley"
+            }
+        ]
+    },
+    {
+        "name": "Kharmang District",
+        "cities": [
+            {
+                "name": "Kharmang",
+                "type": "Valley"
+            }
+        ]
+    },
+    {
+        "name": "Nagar District",
+        "cities": [
+            {
+                "name": "Nagar",
+                "type": "Valley"
+            }
+        ]
+    },
+    {
+        "name": "Hunza District",
+        "cities": [
+            {
+                "name": "Qasimabad",
+                "type": "Village"
+            }
+        ]
+    },
+    {
+        "name": "Shigar District",
+        "cities": [
+            {
+                "name": "Shigar",
+                "type": "Town"
+            }
+        ]
+    },
+    {
+        "name": "Gilgit DIstrict",
+        "cities": [
+            {
+                "name": "Sultanabad",
+                "type": "Village"
+            }
+        ]
+    },
+    {
+        "name": "Darel District",
+        "cities": [
+            {
+                "name": "Tangir",
+                "type": "Valley"
+            }
+        ]
+    },
+    {
+        "name": "Kharmang",
+        "cities": [
+            {
+                "name": "Tolti",
+                "type": "Town"
+            }
+        ]
+    },
+    {
+        "name": "Gupis-Yasin",
+        "cities": [
+            {
+                "name": "Yasin",
+                "type": "Valley"
+            }
+        ]
+    }
+]
